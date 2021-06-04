@@ -1,4 +1,5 @@
 # Geometric Weather
+A complete weather app using the openweathermap.org API to fetch data and display to the user. User can also search for a particular city by tapping on the search icon. 
 
 ## Screen Shots
 
